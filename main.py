@@ -1,11 +1,12 @@
 """
 CMPS 2200  Preparation
 """
+n=1
 
-def myfunction(input):
-	""" done. """
-	return input
-
+def myfunction(n):
+	
+	return n
+print(myfunction("Hello, world."))
 
 
 
